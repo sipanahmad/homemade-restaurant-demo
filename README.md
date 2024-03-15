@@ -4,6 +4,8 @@ This project is a customizable restaurant template designed to help restaurants 
 
 ![Restaurant Template Preview](./preview.jpg)
 
+Live Template on vercel : [Demo](https://homemade-restaurant-demo.vercel.app/)
+
 ## Features
 
 - **Responsive Design:** The template is designed to work seamlessly across various devices, including desktops, tablets, and mobile phones.
@@ -17,10 +19,10 @@ This project is a customizable restaurant template designed to help restaurants 
 Follow these steps to get started with the restaurant template:
 
 1. **Clone the Repository:**
-
+  git clone https://github.com/sipanahmad/homemade-restaurant-demo.git
 2. **Navigate to the Project Directory:**
 
-cd restaurant-template
+  cd restaurant-template
 
 3. **Open `the project` in a Web Browser:**
 
@@ -36,7 +38,7 @@ To customize the template for your restaurant:
 Update the content in `index.html` to reflect your restaurant's information, including menu items, contact details, and images.
 
 2. **Customize Styles:**
-Customize the styles in `styles.css` to match your restaurant's branding and aesthetic preferences.
+Customize the styles in `tailwindcss` to match your restaurant's branding and aesthetic preferences.
 
 3. **Add Images:**
 Replace the placeholder images in the `img` folder with images of your restaurant, dishes, and ambiance.
@@ -51,4 +53,4 @@ If you have any questions, feedback, or suggestions, please feel free to reach o
 
 - Email: [dev.ahmadsipan@gmail.com](mailto:dev.ahmadsipan@gmail.com)
 - Linkedin: [@ahmadsipan](https://www.linkedin.com/in/ahmadsipan/)
-- GitHub: [YourUsername](https://github.com/sipanahmad)
+- GitHub: [Sipan Ahmad](https://github.com/sipanahmad)
