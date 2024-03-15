@@ -1,0 +1,36 @@
+/** @format */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+	.bg-url {
+		background-image: url('assets/landingbg.jpg');
+		background-position: center center;
+		background-repeat: no-repeat;
+		background-size: cover;
+	}
+	.bg-url1 {
+		background-image: url('assets/learnbg.jpg');
+		background-position: center center;
+		background-repeat: no-repeat;
+		background-size: cover;
+	}
+	.bg-url2 {
+		background-image: url('assets/contact.jpg');
+		background-position: center center;
+		background-repeat: no-repeat;
+		background-size: cover;
+	}
+	.vert {
+		-ms-writing-mode: vertical-lr;
+		writing-mode: vertical-lr;
+		text-orientation: upright;
+	}
+	.non-vert {
+		-ms-writing-mode: horizontal-tb;
+		writing-mode: horizontal-tb;
+		text-orientation: sideways;
+	}
+}
